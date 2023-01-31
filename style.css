@@ -1,0 +1,26 @@
+.bilgi{
+    display: flex;
+    text-decoration: underline;
+}
+.bilgi>p{
+    margin-right: 1%;
+}
+.tarif>h3{
+    background-color: #d2bda1;
+    padding-left: 2%;
+    border-radius: 30px;
+    max-width: max-content;
+}
+.detay{
+    margin-left: 50%;
+    background-color: #f1f8e9;
+    border-radius: 24px;
+    padding: 5%;
+    max-width: 34%;
+    max-height: 50%;
+    margin-bottom: 6%;
+}
+.detay>h3{
+    text-align: end;
+    margin-top: 8%;
+}
